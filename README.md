@@ -1,1 +1,1 @@
-# baise-sign-language-detection
+# basic-sign-language-detection
